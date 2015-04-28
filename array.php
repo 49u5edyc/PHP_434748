@@ -2,7 +2,7 @@
 
 $a = array
   (
-  "nasi goreng"=>array
+  "nasgor"=>array
   (
   "telur",
   "babat",
@@ -24,5 +24,4 @@ $a = array
 echo'<pre>';
 print_r($a);
 echo'</pre>';
-echo $a;
 ?>
