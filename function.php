@@ -1,9 +1,9 @@
 <?php
-function nama()
-{
-echo "syukur";
-}
+	function nama()
+	{
+		echo "syukur";
+	}
 
-echo "nama saya adalah ";
-nama();
+	echo "nama saya adalah ";
+	nama();
 ?>
